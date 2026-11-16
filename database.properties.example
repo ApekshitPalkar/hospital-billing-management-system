@@ -1,0 +1,5 @@
+# Copy this file to database.properties and fill in your local credentials.
+# Do not commit database.properties to GitHub.
+db.url=jdbc:mariadb://127.0.0.1:3306/hospital_billing_db?sslMode=disable
+db.user=hospital_app
+db.password=CHANGE_THIS_PASSWORD
